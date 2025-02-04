@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/beast/Documents/proginc/ICTS/Matrices/diagonals.c
+stdio.h
+-
+dynamics.h
+/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+
+/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+
+/home/beast/Documents/proginc/ICTS/Matrices/multiplication.c
+stdio.h
+-
+stdlib.h
+-
+dynamics.h
+/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+
+/home/beast/Documents/proginc/ICTS/Matrices/printMatrix.c
+stdio.h
+-
+dynamics.h
+/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+
+/home/beast/Documents/proginc/ICTS/Matrices/q_mul.c
+stdio.h
+-
+stdlib.h
+-
+dynamics.h
+/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+
+/home/beast/Documents/proginc/ICTS/Matrices/transpose.c
+dynamics.h
+/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+stdlib.h
+-
+

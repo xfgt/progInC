@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o  -o proginC 

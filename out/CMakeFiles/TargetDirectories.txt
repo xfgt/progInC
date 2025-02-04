@@ -1,0 +1,3 @@
+/home/beast/Documents/proginc/out/CMakeFiles/rebuild_cache.dir
+/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir
+/home/beast/Documents/proginc/out/CMakeFiles/edit_cache.dir
