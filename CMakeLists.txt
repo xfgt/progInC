@@ -9,9 +9,10 @@ add_executable(proginC
         ITS/Matrices/multiplication.c
         ITS/Matrices/diagonals.c
         ITS/Matrices/transpose.c
+        ITS/Matrices/scalar.c
 		
 
-        ITS/Matrices/q_mul.c
-#        ITS/Matrices/q8.c
+#        ITS/Matrices/src/q_mul.c
+        ITS/Matrices/src/q8.c
 
 )

@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "dynamics.h"
+#include "../dynamics.h"
 
 int main() {
 
@@ -18,6 +18,9 @@ int main() {
     int matrix[4][4] = {{3,5,6,9},{2,1,8,4},{6,6,-3, 5},{7,6,0,1}}; // to be changed
 
     printMatrix((int*)matrix, 4, 4, "Before");
+	
+	int* S = scalar(5, (int*)matrix, 4, 4);
+	printMatrix(S, 4, 4, "x5");
 
 
 //	do the swap
@@ -34,6 +37,7 @@ int main() {
 
 
 
+
 //	Print diagonals (first and second)
     getPrincipalDiag((int*)matrix, 4,4);
 	getSecondaryDiag((int*)matrix, 4,4);
@@ -41,8 +45,10 @@ int main() {
 //	Mutliplication
     int* x = multiplication(matrixfirst, matrix, 4,4,4,4);
     printMatrix((int*)x, 4,4, "Multiplication");
-
+	
+	
     free(x);
+	free(S);
 
 
     return 0;
