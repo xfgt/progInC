@@ -123,140 +123,140 @@ proginC/fast:
 	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/build
 .PHONY : proginC/fast
 
-ICTS/Matrices/diagonals.o: ICTS/Matrices/diagonals.c.o
+ITS/Matrices/diagonals.o: ITS/Matrices/diagonals.c.o
 
-.PHONY : ICTS/Matrices/diagonals.o
-
-# target to build an object file
-ICTS/Matrices/diagonals.c.o:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o
-.PHONY : ICTS/Matrices/diagonals.c.o
-
-ICTS/Matrices/diagonals.i: ICTS/Matrices/diagonals.c.i
-
-.PHONY : ICTS/Matrices/diagonals.i
-
-# target to preprocess a source file
-ICTS/Matrices/diagonals.c.i:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.i
-.PHONY : ICTS/Matrices/diagonals.c.i
-
-ICTS/Matrices/diagonals.s: ICTS/Matrices/diagonals.c.s
-
-.PHONY : ICTS/Matrices/diagonals.s
-
-# target to generate assembly for a file
-ICTS/Matrices/diagonals.c.s:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.s
-.PHONY : ICTS/Matrices/diagonals.c.s
-
-ICTS/Matrices/multiplication.o: ICTS/Matrices/multiplication.c.o
-
-.PHONY : ICTS/Matrices/multiplication.o
+.PHONY : ITS/Matrices/diagonals.o
 
 # target to build an object file
-ICTS/Matrices/multiplication.c.o:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o
-.PHONY : ICTS/Matrices/multiplication.c.o
+ITS/Matrices/diagonals.c.o:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o
+.PHONY : ITS/Matrices/diagonals.c.o
 
-ICTS/Matrices/multiplication.i: ICTS/Matrices/multiplication.c.i
+ITS/Matrices/diagonals.i: ITS/Matrices/diagonals.c.i
 
-.PHONY : ICTS/Matrices/multiplication.i
+.PHONY : ITS/Matrices/diagonals.i
 
 # target to preprocess a source file
-ICTS/Matrices/multiplication.c.i:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.i
-.PHONY : ICTS/Matrices/multiplication.c.i
+ITS/Matrices/diagonals.c.i:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.i
+.PHONY : ITS/Matrices/diagonals.c.i
 
-ICTS/Matrices/multiplication.s: ICTS/Matrices/multiplication.c.s
+ITS/Matrices/diagonals.s: ITS/Matrices/diagonals.c.s
 
-.PHONY : ICTS/Matrices/multiplication.s
+.PHONY : ITS/Matrices/diagonals.s
 
 # target to generate assembly for a file
-ICTS/Matrices/multiplication.c.s:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.s
-.PHONY : ICTS/Matrices/multiplication.c.s
+ITS/Matrices/diagonals.c.s:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.s
+.PHONY : ITS/Matrices/diagonals.c.s
 
-ICTS/Matrices/printMatrix.o: ICTS/Matrices/printMatrix.c.o
+ITS/Matrices/multiplication.o: ITS/Matrices/multiplication.c.o
 
-.PHONY : ICTS/Matrices/printMatrix.o
+.PHONY : ITS/Matrices/multiplication.o
 
 # target to build an object file
-ICTS/Matrices/printMatrix.c.o:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o
-.PHONY : ICTS/Matrices/printMatrix.c.o
+ITS/Matrices/multiplication.c.o:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o
+.PHONY : ITS/Matrices/multiplication.c.o
 
-ICTS/Matrices/printMatrix.i: ICTS/Matrices/printMatrix.c.i
+ITS/Matrices/multiplication.i: ITS/Matrices/multiplication.c.i
 
-.PHONY : ICTS/Matrices/printMatrix.i
+.PHONY : ITS/Matrices/multiplication.i
 
 # target to preprocess a source file
-ICTS/Matrices/printMatrix.c.i:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.i
-.PHONY : ICTS/Matrices/printMatrix.c.i
+ITS/Matrices/multiplication.c.i:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.i
+.PHONY : ITS/Matrices/multiplication.c.i
 
-ICTS/Matrices/printMatrix.s: ICTS/Matrices/printMatrix.c.s
+ITS/Matrices/multiplication.s: ITS/Matrices/multiplication.c.s
 
-.PHONY : ICTS/Matrices/printMatrix.s
+.PHONY : ITS/Matrices/multiplication.s
 
 # target to generate assembly for a file
-ICTS/Matrices/printMatrix.c.s:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.s
-.PHONY : ICTS/Matrices/printMatrix.c.s
+ITS/Matrices/multiplication.c.s:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.s
+.PHONY : ITS/Matrices/multiplication.c.s
 
-ICTS/Matrices/q_mul.o: ICTS/Matrices/q_mul.c.o
+ITS/Matrices/printMatrix.o: ITS/Matrices/printMatrix.c.o
 
-.PHONY : ICTS/Matrices/q_mul.o
+.PHONY : ITS/Matrices/printMatrix.o
 
 # target to build an object file
-ICTS/Matrices/q_mul.c.o:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o
-.PHONY : ICTS/Matrices/q_mul.c.o
+ITS/Matrices/printMatrix.c.o:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o
+.PHONY : ITS/Matrices/printMatrix.c.o
 
-ICTS/Matrices/q_mul.i: ICTS/Matrices/q_mul.c.i
+ITS/Matrices/printMatrix.i: ITS/Matrices/printMatrix.c.i
 
-.PHONY : ICTS/Matrices/q_mul.i
+.PHONY : ITS/Matrices/printMatrix.i
 
 # target to preprocess a source file
-ICTS/Matrices/q_mul.c.i:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.i
-.PHONY : ICTS/Matrices/q_mul.c.i
+ITS/Matrices/printMatrix.c.i:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.i
+.PHONY : ITS/Matrices/printMatrix.c.i
 
-ICTS/Matrices/q_mul.s: ICTS/Matrices/q_mul.c.s
+ITS/Matrices/printMatrix.s: ITS/Matrices/printMatrix.c.s
 
-.PHONY : ICTS/Matrices/q_mul.s
+.PHONY : ITS/Matrices/printMatrix.s
 
 # target to generate assembly for a file
-ICTS/Matrices/q_mul.c.s:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.s
-.PHONY : ICTS/Matrices/q_mul.c.s
+ITS/Matrices/printMatrix.c.s:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.s
+.PHONY : ITS/Matrices/printMatrix.c.s
 
-ICTS/Matrices/transpose.o: ICTS/Matrices/transpose.c.o
+ITS/Matrices/q_mul.o: ITS/Matrices/q_mul.c.o
 
-.PHONY : ICTS/Matrices/transpose.o
+.PHONY : ITS/Matrices/q_mul.o
 
 # target to build an object file
-ICTS/Matrices/transpose.c.o:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o
-.PHONY : ICTS/Matrices/transpose.c.o
+ITS/Matrices/q_mul.c.o:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o
+.PHONY : ITS/Matrices/q_mul.c.o
 
-ICTS/Matrices/transpose.i: ICTS/Matrices/transpose.c.i
+ITS/Matrices/q_mul.i: ITS/Matrices/q_mul.c.i
 
-.PHONY : ICTS/Matrices/transpose.i
+.PHONY : ITS/Matrices/q_mul.i
 
 # target to preprocess a source file
-ICTS/Matrices/transpose.c.i:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.i
-.PHONY : ICTS/Matrices/transpose.c.i
+ITS/Matrices/q_mul.c.i:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i
+.PHONY : ITS/Matrices/q_mul.c.i
 
-ICTS/Matrices/transpose.s: ICTS/Matrices/transpose.c.s
+ITS/Matrices/q_mul.s: ITS/Matrices/q_mul.c.s
 
-.PHONY : ICTS/Matrices/transpose.s
+.PHONY : ITS/Matrices/q_mul.s
 
 # target to generate assembly for a file
-ICTS/Matrices/transpose.c.s:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.s
-.PHONY : ICTS/Matrices/transpose.c.s
+ITS/Matrices/q_mul.c.s:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s
+.PHONY : ITS/Matrices/q_mul.c.s
+
+ITS/Matrices/transpose.o: ITS/Matrices/transpose.c.o
+
+.PHONY : ITS/Matrices/transpose.o
+
+# target to build an object file
+ITS/Matrices/transpose.c.o:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o
+.PHONY : ITS/Matrices/transpose.c.o
+
+ITS/Matrices/transpose.i: ITS/Matrices/transpose.c.i
+
+.PHONY : ITS/Matrices/transpose.i
+
+# target to preprocess a source file
+ITS/Matrices/transpose.c.i:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.i
+.PHONY : ITS/Matrices/transpose.c.i
+
+ITS/Matrices/transpose.s: ITS/Matrices/transpose.c.s
+
+.PHONY : ITS/Matrices/transpose.s
+
+# target to generate assembly for a file
+ITS/Matrices/transpose.c.s:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.s
+.PHONY : ITS/Matrices/transpose.c.s
 
 # Help Target
 help:
@@ -267,21 +267,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... proginC"
 	@echo "... edit_cache"
-	@echo "... ICTS/Matrices/diagonals.o"
-	@echo "... ICTS/Matrices/diagonals.i"
-	@echo "... ICTS/Matrices/diagonals.s"
-	@echo "... ICTS/Matrices/multiplication.o"
-	@echo "... ICTS/Matrices/multiplication.i"
-	@echo "... ICTS/Matrices/multiplication.s"
-	@echo "... ICTS/Matrices/printMatrix.o"
-	@echo "... ICTS/Matrices/printMatrix.i"
-	@echo "... ICTS/Matrices/printMatrix.s"
-	@echo "... ICTS/Matrices/q_mul.o"
-	@echo "... ICTS/Matrices/q_mul.i"
-	@echo "... ICTS/Matrices/q_mul.s"
-	@echo "... ICTS/Matrices/transpose.o"
-	@echo "... ICTS/Matrices/transpose.i"
-	@echo "... ICTS/Matrices/transpose.s"
+	@echo "... ITS/Matrices/diagonals.o"
+	@echo "... ITS/Matrices/diagonals.i"
+	@echo "... ITS/Matrices/diagonals.s"
+	@echo "... ITS/Matrices/multiplication.o"
+	@echo "... ITS/Matrices/multiplication.i"
+	@echo "... ITS/Matrices/multiplication.s"
+	@echo "... ITS/Matrices/printMatrix.o"
+	@echo "... ITS/Matrices/printMatrix.i"
+	@echo "... ITS/Matrices/printMatrix.s"
+	@echo "... ITS/Matrices/q_mul.o"
+	@echo "... ITS/Matrices/q_mul.i"
+	@echo "... ITS/Matrices/q_mul.s"
+	@echo "... ITS/Matrices/transpose.o"
+	@echo "... ITS/Matrices/transpose.i"
+	@echo "... ITS/Matrices/transpose.s"
 .PHONY : help
 
 

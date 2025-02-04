@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/beast/Documents/proginc/ICTS/Matrices/diagonals.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o"
-  "/home/beast/Documents/proginc/ICTS/Matrices/multiplication.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o"
-  "/home/beast/Documents/proginc/ICTS/Matrices/printMatrix.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o"
-  "/home/beast/Documents/proginc/ICTS/Matrices/q_mul.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o"
-  "/home/beast/Documents/proginc/ICTS/Matrices/transpose.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o"
+  "/home/beast/Documents/proginc/ITS/Matrices/diagonals.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o"
+  "/home/beast/Documents/proginc/ITS/Matrices/multiplication.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o"
+  "/home/beast/Documents/proginc/ITS/Matrices/printMatrix.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o"
+  "/home/beast/Documents/proginc/ITS/Matrices/q_mul.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o"
+  "/home/beast/Documents/proginc/ITS/Matrices/transpose.c" "/home/beast/Documents/proginc/out/CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

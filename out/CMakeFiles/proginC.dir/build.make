@@ -57,142 +57,142 @@ include CMakeFiles/proginC.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/proginC.dir/flags.make
 
-CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o: CMakeFiles/proginC.dir/flags.make
-CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o: ../ICTS/Matrices/printMatrix.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o   -c /home/beast/Documents/proginc/ICTS/Matrices/printMatrix.c
+CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o: CMakeFiles/proginC.dir/flags.make
+CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o: ../ITS/Matrices/printMatrix.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/printMatrix.c
 
-CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ICTS/Matrices/printMatrix.c > CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.i
+CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/printMatrix.c > CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.i
 
-CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ICTS/Matrices/printMatrix.c -o CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.s
+CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/printMatrix.c -o CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.s
 
-CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.requires:
+CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.requires:
 
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.requires
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.requires
 
-CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.provides: CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.requires
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.provides.build
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.provides
+CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.requires
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.provides.build
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.provides
 
-CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.provides.build: CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o
-
-
-CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o: CMakeFiles/proginC.dir/flags.make
-CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o: ../ICTS/Matrices/multiplication.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o   -c /home/beast/Documents/proginc/ICTS/Matrices/multiplication.c
-
-CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ICTS/Matrices/multiplication.c > CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.i
-
-CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ICTS/Matrices/multiplication.c -o CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.s
-
-CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.requires:
-
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.requires
-
-CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.provides: CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.requires
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.provides.build
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.provides
-
-CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.provides.build: CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o
+CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o
 
 
-CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o: CMakeFiles/proginC.dir/flags.make
-CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o: ../ICTS/Matrices/diagonals.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o   -c /home/beast/Documents/proginc/ICTS/Matrices/diagonals.c
+CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o: CMakeFiles/proginC.dir/flags.make
+CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o: ../ITS/Matrices/multiplication.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/multiplication.c
 
-CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ICTS/Matrices/diagonals.c > CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.i
+CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/multiplication.c > CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.i
 
-CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ICTS/Matrices/diagonals.c -o CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.s
+CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/multiplication.c -o CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.s
 
-CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.requires:
+CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.requires:
 
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.requires
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.requires
 
-CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.provides: CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.requires
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.provides.build
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.provides
+CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.requires
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.provides.build
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.provides
 
-CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.provides.build: CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o
-
-
-CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o: CMakeFiles/proginC.dir/flags.make
-CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o: ../ICTS/Matrices/transpose.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o   -c /home/beast/Documents/proginc/ICTS/Matrices/transpose.c
-
-CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ICTS/Matrices/transpose.c > CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.i
-
-CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ICTS/Matrices/transpose.c -o CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.s
-
-CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.requires:
-
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.requires
-
-CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.provides: CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.requires
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.provides.build
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.provides
-
-CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.provides.build: CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o
+CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o
 
 
-CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o: CMakeFiles/proginC.dir/flags.make
-CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o: ../ICTS/Matrices/q_mul.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o   -c /home/beast/Documents/proginc/ICTS/Matrices/q_mul.c
+CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o: CMakeFiles/proginC.dir/flags.make
+CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o: ../ITS/Matrices/diagonals.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/diagonals.c
 
-CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ICTS/Matrices/q_mul.c > CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.i
+CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/diagonals.c > CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.i
 
-CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ICTS/Matrices/q_mul.c -o CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.s
+CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/diagonals.c -o CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.s
 
-CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.requires:
+CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.requires:
 
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.requires
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.requires
 
-CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.provides: CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.requires
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.provides.build
-.PHONY : CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.provides
+CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.requires
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.provides.build
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.provides
 
-CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.provides.build: CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o
+CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o
+
+
+CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o: CMakeFiles/proginC.dir/flags.make
+CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o: ../ITS/Matrices/transpose.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/transpose.c
+
+CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/transpose.c > CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.i
+
+CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/transpose.c -o CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.s
+
+CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.requires:
+
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.requires
+
+CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.requires
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.provides.build
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.provides
+
+CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o
+
+
+CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o: CMakeFiles/proginC.dir/flags.make
+CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o: ../ITS/Matrices/q_mul.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/q_mul.c
+
+CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/q_mul.c > CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i
+
+CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/q_mul.c -o CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s
+
+CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires:
+
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires
+
+CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides.build
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides
+
+CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o
 
 
 # Object files for target proginC
 proginC_OBJECTS = \
-"CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o" \
-"CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o" \
-"CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o" \
-"CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o" \
-"CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o"
+"CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o" \
+"CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o" \
+"CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o" \
+"CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o" \
+"CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o"
 
 # External object files for target proginC
 proginC_EXTERNAL_OBJECTS =
 
-proginC: CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o
-proginC: CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o
-proginC: CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o
-proginC: CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o
-proginC: CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o
+proginC: CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o
+proginC: CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o
+proginC: CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o
+proginC: CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o
+proginC: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o
 proginC: CMakeFiles/proginC.dir/build.make
 proginC: CMakeFiles/proginC.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable proginC"
@@ -203,11 +203,11 @@ CMakeFiles/proginC.dir/build: proginC
 
 .PHONY : CMakeFiles/proginC.dir/build
 
-CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ICTS/Matrices/printMatrix.c.o.requires
-CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ICTS/Matrices/multiplication.c.o.requires
-CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ICTS/Matrices/diagonals.c.o.requires
-CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ICTS/Matrices/transpose.c.o.requires
-CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ICTS/Matrices/q_mul.c.o.requires
+CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o.requires
+CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.requires
+CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.requires
+CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.requires
+CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires
 
 .PHONY : CMakeFiles/proginC.dir/requires
 

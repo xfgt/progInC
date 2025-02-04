@@ -6,39 +6,39 @@
 
 #IncludeRegexTransform: 
 
-/home/beast/Documents/proginc/ICTS/Matrices/diagonals.c
+/home/beast/Documents/proginc/ITS/Matrices/diagonals.c
 stdio.h
 -
 dynamics.h
-/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+/home/beast/Documents/proginc/ITS/Matrices/dynamics.h
 
-/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+/home/beast/Documents/proginc/ITS/Matrices/dynamics.h
 
-/home/beast/Documents/proginc/ICTS/Matrices/multiplication.c
-stdio.h
--
-stdlib.h
--
-dynamics.h
-/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
-
-/home/beast/Documents/proginc/ICTS/Matrices/printMatrix.c
-stdio.h
--
-dynamics.h
-/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
-
-/home/beast/Documents/proginc/ICTS/Matrices/q_mul.c
+/home/beast/Documents/proginc/ITS/Matrices/multiplication.c
 stdio.h
 -
 stdlib.h
 -
 dynamics.h
-/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+/home/beast/Documents/proginc/ITS/Matrices/dynamics.h
 
-/home/beast/Documents/proginc/ICTS/Matrices/transpose.c
+/home/beast/Documents/proginc/ITS/Matrices/printMatrix.c
+stdio.h
+-
 dynamics.h
-/home/beast/Documents/proginc/ICTS/Matrices/dynamics.h
+/home/beast/Documents/proginc/ITS/Matrices/dynamics.h
+
+/home/beast/Documents/proginc/ITS/Matrices/q_mul.c
+stdio.h
+-
+stdlib.h
+-
+dynamics.h
+/home/beast/Documents/proginc/ITS/Matrices/dynamics.h
+
+/home/beast/Documents/proginc/ITS/Matrices/transpose.c
+dynamics.h
+/home/beast/Documents/proginc/ITS/Matrices/dynamics.h
 stdlib.h
 -
 
