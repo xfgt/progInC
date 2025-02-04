@@ -10,9 +10,12 @@ CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o
 CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o
  /home/beast/Documents/proginc/ITS/Matrices/dynamics.h
  /home/beast/Documents/proginc/ITS/Matrices/printMatrix.c
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o
  /home/beast/Documents/proginc/ITS/Matrices/dynamics.h
- /home/beast/Documents/proginc/ITS/Matrices/q_mul.c
+ /home/beast/Documents/proginc/ITS/Matrices/scalar.c
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o
+ /home/beast/Documents/proginc/ITS/Matrices/dynamics.h
+ /home/beast/Documents/proginc/ITS/Matrices/src/q8.c
 CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o
  /home/beast/Documents/proginc/ITS/Matrices/dynamics.h
  /home/beast/Documents/proginc/ITS/Matrices/transpose.c

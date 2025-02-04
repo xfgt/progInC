@@ -204,32 +204,59 @@ ITS/Matrices/printMatrix.c.s:
 	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.s
 .PHONY : ITS/Matrices/printMatrix.c.s
 
-ITS/Matrices/q_mul.o: ITS/Matrices/q_mul.c.o
+ITS/Matrices/scalar.o: ITS/Matrices/scalar.c.o
 
-.PHONY : ITS/Matrices/q_mul.o
+.PHONY : ITS/Matrices/scalar.o
 
 # target to build an object file
-ITS/Matrices/q_mul.c.o:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o
-.PHONY : ITS/Matrices/q_mul.c.o
+ITS/Matrices/scalar.c.o:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o
+.PHONY : ITS/Matrices/scalar.c.o
 
-ITS/Matrices/q_mul.i: ITS/Matrices/q_mul.c.i
+ITS/Matrices/scalar.i: ITS/Matrices/scalar.c.i
 
-.PHONY : ITS/Matrices/q_mul.i
+.PHONY : ITS/Matrices/scalar.i
 
 # target to preprocess a source file
-ITS/Matrices/q_mul.c.i:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i
-.PHONY : ITS/Matrices/q_mul.c.i
+ITS/Matrices/scalar.c.i:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.i
+.PHONY : ITS/Matrices/scalar.c.i
 
-ITS/Matrices/q_mul.s: ITS/Matrices/q_mul.c.s
+ITS/Matrices/scalar.s: ITS/Matrices/scalar.c.s
 
-.PHONY : ITS/Matrices/q_mul.s
+.PHONY : ITS/Matrices/scalar.s
 
 # target to generate assembly for a file
-ITS/Matrices/q_mul.c.s:
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s
-.PHONY : ITS/Matrices/q_mul.c.s
+ITS/Matrices/scalar.c.s:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.s
+.PHONY : ITS/Matrices/scalar.c.s
+
+ITS/Matrices/src/q8.o: ITS/Matrices/src/q8.c.o
+
+.PHONY : ITS/Matrices/src/q8.o
+
+# target to build an object file
+ITS/Matrices/src/q8.c.o:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o
+.PHONY : ITS/Matrices/src/q8.c.o
+
+ITS/Matrices/src/q8.i: ITS/Matrices/src/q8.c.i
+
+.PHONY : ITS/Matrices/src/q8.i
+
+# target to preprocess a source file
+ITS/Matrices/src/q8.c.i:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.i
+.PHONY : ITS/Matrices/src/q8.c.i
+
+ITS/Matrices/src/q8.s: ITS/Matrices/src/q8.c.s
+
+.PHONY : ITS/Matrices/src/q8.s
+
+# target to generate assembly for a file
+ITS/Matrices/src/q8.c.s:
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.s
+.PHONY : ITS/Matrices/src/q8.c.s
 
 ITS/Matrices/transpose.o: ITS/Matrices/transpose.c.o
 
@@ -276,9 +303,12 @@ help:
 	@echo "... ITS/Matrices/printMatrix.o"
 	@echo "... ITS/Matrices/printMatrix.i"
 	@echo "... ITS/Matrices/printMatrix.s"
-	@echo "... ITS/Matrices/q_mul.o"
-	@echo "... ITS/Matrices/q_mul.i"
-	@echo "... ITS/Matrices/q_mul.s"
+	@echo "... ITS/Matrices/scalar.o"
+	@echo "... ITS/Matrices/scalar.i"
+	@echo "... ITS/Matrices/scalar.s"
+	@echo "... ITS/Matrices/src/q8.o"
+	@echo "... ITS/Matrices/src/q8.i"
+	@echo "... ITS/Matrices/src/q8.s"
 	@echo "... ITS/Matrices/transpose.o"
 	@echo "... ITS/Matrices/transpose.i"
 	@echo "... ITS/Matrices/transpose.s"

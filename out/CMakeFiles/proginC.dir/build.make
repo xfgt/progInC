@@ -153,28 +153,52 @@ CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.provides: CMakeFiles/proginC.d
 CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o
 
 
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o: CMakeFiles/proginC.dir/flags.make
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o: ../ITS/Matrices/q_mul.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/q_mul.c
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o: CMakeFiles/proginC.dir/flags.make
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o: ../ITS/Matrices/scalar.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/scalar.c
 
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/q_mul.c > CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.i
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/scalar.c > CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.i
 
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/q_mul.c -o CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.s
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/scalar.c -o CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.s
 
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires:
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.requires:
 
-.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.requires
 
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires
-	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides.build
-.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.requires
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.provides.build
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.provides
 
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o
+
+
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o: CMakeFiles/proginC.dir/flags.make
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o: ../ITS/Matrices/src/q8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o   -c /home/beast/Documents/proginc/ITS/Matrices/src/q8.c
+
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/beast/Documents/proginc/ITS/Matrices/src/q8.c > CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.i
+
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/beast/Documents/proginc/ITS/Matrices/src/q8.c -o CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.s
+
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.requires:
+
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.requires
+
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.provides: CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.requires
+	$(MAKE) -f CMakeFiles/proginC.dir/build.make CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.provides.build
+.PHONY : CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.provides
+
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.provides.build: CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o
 
 
 # Object files for target proginC
@@ -183,7 +207,8 @@ proginC_OBJECTS = \
 "CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o" \
 "CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o" \
 "CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o" \
-"CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o"
+"CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o" \
+"CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o"
 
 # External object files for target proginC
 proginC_EXTERNAL_OBJECTS =
@@ -192,10 +217,11 @@ proginC: CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o
 proginC: CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o
 proginC: CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o
 proginC: CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o
-proginC: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o
+proginC: CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o
+proginC: CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o
 proginC: CMakeFiles/proginC.dir/build.make
 proginC: CMakeFiles/proginC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable proginC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/beast/Documents/proginc/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable proginC"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/proginC.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -207,7 +233,8 @@ CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/printMatrix
 CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o.requires
 CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o.requires
 CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o.requires
-CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o.requires
+CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o.requires
+CMakeFiles/proginC.dir/requires: CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o.requires
 
 .PHONY : CMakeFiles/proginC.dir/requires
 

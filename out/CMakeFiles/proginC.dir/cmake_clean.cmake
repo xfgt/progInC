@@ -3,7 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o"
   "CMakeFiles/proginC.dir/ITS/Matrices/diagonals.c.o"
   "CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o"
-  "CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o"
+  "CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o"
+  "CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o"
   "proginC.pdb"
   "proginC"
 )

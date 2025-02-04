@@ -10,8 +10,11 @@ CMakeFiles/proginC.dir/ITS/Matrices/multiplication.c.o: ../ITS/Matrices/multipli
 CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o: ../ITS/Matrices/dynamics.h
 CMakeFiles/proginC.dir/ITS/Matrices/printMatrix.c.o: ../ITS/Matrices/printMatrix.c
 
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o: ../ITS/Matrices/dynamics.h
-CMakeFiles/proginC.dir/ITS/Matrices/q_mul.c.o: ../ITS/Matrices/q_mul.c
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o: ../ITS/Matrices/dynamics.h
+CMakeFiles/proginC.dir/ITS/Matrices/scalar.c.o: ../ITS/Matrices/scalar.c
+
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o: ../ITS/Matrices/dynamics.h
+CMakeFiles/proginC.dir/ITS/Matrices/src/q8.c.o: ../ITS/Matrices/src/q8.c
 
 CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o: ../ITS/Matrices/dynamics.h
 CMakeFiles/proginC.dir/ITS/Matrices/transpose.c.o: ../ITS/Matrices/transpose.c

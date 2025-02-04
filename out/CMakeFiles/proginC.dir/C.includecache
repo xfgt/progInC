@@ -28,12 +28,18 @@ stdio.h
 dynamics.h
 /home/beast/Documents/proginc/ITS/Matrices/dynamics.h
 
-/home/beast/Documents/proginc/ITS/Matrices/q_mul.c
+/home/beast/Documents/proginc/ITS/Matrices/scalar.c
+dynamics.h
+/home/beast/Documents/proginc/ITS/Matrices/dynamics.h
+stdlib.h
+-
+
+/home/beast/Documents/proginc/ITS/Matrices/src/q8.c
 stdio.h
 -
 stdlib.h
 -
-dynamics.h
+../dynamics.h
 /home/beast/Documents/proginc/ITS/Matrices/dynamics.h
 
 /home/beast/Documents/proginc/ITS/Matrices/transpose.c
